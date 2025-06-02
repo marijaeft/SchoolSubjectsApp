@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Math",
+    "Description": "Study of numbers and logic.",
+    "WeeklyClasses": 5,
+    "Literature": [ "Mathematics for Dummies" ]
+  },
+  {
+    "Name": "English",
+    "Description": "Language and literature.",
+    "WeeklyClasses": 4,
+    "Literature": [ "Oxford English" ]
+  },
+  {
+    "Name": "Art",
+    "Description": "Creativity and visual design.",
+    "WeeklyClasses": 3,
+    "Literature": [ "Art History 101" ]
+  },
+  {
+    "Name": "Physics",
+    "Description": "The study of matter and energy.",
+    "WeeklyClasses": 5,
+    "Literature": [ "Fundamentals of Physics", "Basic Mechanics" ]
+  },
+  {
+    "Name": "History",
+    "Description": "Exploration of historical events.",
+    "WeeklyClasses": 3,
+    "Literature": [ "World History", "The Roman Empire" ]
+  }
+]
